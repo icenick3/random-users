@@ -26,6 +26,33 @@ h4 {
 }
 
 .form {
+
     width: 400px;
-    margin: 100px auto auto;
+    margin: 100px auto 0 auto;
+}
+form{
+    height: 20px;
+    display: flex;
+    margin-bottom: 80px;
+}
+
+
+.nationality {
+    width: 80px;
+    margin-left: 15px;
+}
+
+.gender {
+height: 20px;
+    margin-top: 48px;
+    margin-bottom: -48px;
+}
+
+option {
+    width: 50px;
+}
+
+button {
+    margin-top: 66px;
+    margin-bottom: -66px;
 }
